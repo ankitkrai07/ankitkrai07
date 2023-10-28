@@ -43,7 +43,7 @@ Hello stranger! My name is Ankit Kumar and I am a Full Stack Web Developer, pass
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <a style="color: black; font-weight: bold; text-decoration: none;" href="https://www.w3.org/html/">
+        <a style="font-weight: bold; text-decoration: none;" href="https://www.w3.org/html/">
           <span>HTML5</span><br /><br />
           <img
             height="64px"
@@ -75,7 +75,7 @@ Hello stranger! My name is Ankit Kumar and I am a Full Stack Web Developer, pass
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <a style="color: black; font-weight: bold; text-decoration: none;" href="https://git-scm.com/">
+        <a style="font-weight: bold; text-decoration: none;" href="https://git-scm.com/">
           <span>Git</span><br /><br />
           <img
             height="64px"
@@ -84,7 +84,7 @@ Hello stranger! My name is Ankit Kumar and I am a Full Stack Web Developer, pass
         </a>
     </td>
       <td width="25%" align="center">
-        <a style="color: black; font-weight: bold; text-decoration: none;" href="https://www.vercel.com/">
+        <a style="font-weight: bold; text-decoration: none;" href="https://www.vercel.com/">
           <span>Vercel</span><br /><br />
           <img height="64px" src="https://cdn.svgporn.com/logos/vercel.svg" />
         </a>
@@ -104,7 +104,7 @@ Hello stranger! My name is Ankit Kumar and I am a Full Stack Web Developer, pass
     </tr>
     <tr valign="top">
         <td width="25%" align="center">
-        <a style="color: black; font-weight: bold; text-decoration: none;" href="https://www.getpostman.com/">
+        <a style="font-weight: bold; text-decoration: none;" href="https://www.getpostman.com/">
           <span>Postman</span><br /><br />
           <img
             height="64px"
@@ -128,7 +128,7 @@ Hello stranger! My name is Ankit Kumar and I am a Full Stack Web Developer, pass
         </a>
       </td>
       <td width="25%" align="center">
-        <a style="color: black; font-weight: bold; text-decoration: none;" href="https://nodejs.org/">
+        <a style="font-weight: bold; text-decoration: none;" href="https://nodejs.org/">
           <span>Node.js</span><br /><br />
           <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg" />
         </a>
