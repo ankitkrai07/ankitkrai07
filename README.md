@@ -69,47 +69,10 @@ Hello stranger! My name is Ankit Kumar and I am a Full Stack Web Developer, pass
       <td width="25%" align="center">
         <a href="https://chakra-ui.com/">
           <span>Chakra UI</span><br /><br />
-          <img
-            height="64px"
-            src="URL_TO_CHAKRA_UI_LOGO_IMAGE"
-          />
+          <img height="64px" src="https://itelofilho.gallerycdn.vsassets.io/extensions/itelofilho/chakra-ui-cheatsheet/0.1.2/1602346378840/Microsoft.VisualStudio.Services.Icons.Default" alt="Chakra UI Logo" />
         </a>
       </td>
     </tr>
-
-<!--     <tr valign="top"> -->
-<!--       <td width="25%" align="center">
-        <a style="color: black; font-weight: bold; text-decoration: none;" href="https://en.wikipedia.org/wiki/C_(programming_language)">
-          <span>C</span><br /><br />
-          <img
-            height="64px"
-            src="https://cdn.svgporn.com/logos/c.svg"
-          />
-        </a>
-      </td> -->
-<!--       <td width="25%" align="center">
-        <a href="http://www.w3.org/TR/CSS/">
-          <span>CSS</span><br /><br />
-          <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg" />
-        </a>
-      </td> -->
-<!--       <td width="25%" align="center">
-        <a style="color: black; font-weight: bold; text-decoration: none;" href="https://www.docker.com/">
-          <span>Docker</span><br /><br />
-          <img height="64px" src="https://cdn.svgporn.com/logos/docker-icon.svg" />
-        </a>
-      </td> -->
-<!--       <td width="25%" align="center">
-        <a href="http://expressjs.com/">
-          <span>Express</span><br /><br />
-          <img
-            height="64px"
-            src="https://cdn.svgporn.com/logos/express.svg"
-          />
-        </a>
-      </td> -->
-<!--     </tr> -->
-
     <tr valign="top">
       <td width="25%" align="center">
         <a style="color: black; font-weight: bold; text-decoration: none;" href="https://git-scm.com/">
@@ -126,9 +89,6 @@ Hello stranger! My name is Ankit Kumar and I am a Full Stack Web Developer, pass
           <img height="64px" src="https://cdn.svgporn.com/logos/vercel.svg" />
         </a>
       </td>
-
-
-
       <td width="25%" align="center">
         <a style="color: black; font-weight: bold; text-decoration: none;" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
           <span>JavaScript</span><br /><br />
@@ -175,81 +135,10 @@ Hello stranger! My name is Ankit Kumar and I am a Full Stack Web Developer, pass
       </td>
     </tr>
 
-<!--     <tr valign="top"> -->
-
-      <!--       <td width="25%" align="center">
-        <a style="color: black; font-weight: bold; text-decoration: none;" href="https://en.wikipedia.org/wiki/Tux_(mascot)">
-          <span>Linux</span><br /><br />
-          <img
-            height="64px"
-            src="https://cdn.svgporn.com/logos/linux-tux.svg"
-          />
-        </a>
-    </td> -->
-      <!--     <td width="25%" align="center">
-      <a style="color: black; font-weight: bold; text-decoration: none;" href="https://www.gnu.org/software/bash/">
-        <span>GNU Bash</span><br /><br />
-        <img
-          height="64px"
-          src="https://cdn.svgporn.com/logos/bash-icon.svg"
-        />
-      </a>
-    </td> -->
-
-<!--       <td width="25%" align="center">
-        <a style="color: black; font-weight: bold; text-decoration: none;" href="https://www.getpostman.com/">
-          <span>Postman</span><br /><br />
-          <img
-            height="64px"
-            src="https://cdn.svgporn.com/logos/postman-icon.svg"
-          />
-        </a>
-    </td> -->
-<!--     <td width="25%" align="center">
-      <a style="color: black; font-weight: bold; text-decoration: none;" href="https://facebook.github.io/react/">
-        <span>React</span><br /><br />
-        <img
-          height="64px"
-          src="https://cdn.svgporn.com/logos/react.svg"
-        />
-      </a>
-    </td> -->
-<!--       <td width="25%" align="center">
-        <a href="http://redux.js.org/">
-          <span>Redux</span><br /><br />
-          <img height="64px" src="https://cdn.svgporn.com/logos/redux.svg" />
-        </a>
-      </td> -->
-<!--       <td width="25%" align="center">
-        <a href="http://vuejs.org/">
-          <span>Vue.js</span><br /><br />
-          <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg" />
-        </a>
-      </td> -->
-
-      <!--       <td width="25%" align="center">
-        <a style="color: black; font-weight: bold; text-decoration: none;" href="https://redux.js.org/">
-          <span>AWS</span><br /><br />
-          <img height="64px" src="https://cdn.svgporn.com/logos/redux.svg" />
-        </a>
-      </td> -->
-
-<!--       <td width="25%" align="center">
-        <a style="color: black; font-weight: bold; text-decoration: none;" href="https://babeljs.io/">
-          <span>Babel</span><br /><br />
-          <img height="64px" src="https://cdn.svgporn.com/logos/babel.svg" />
-        </a>
-      </td> -->
-<!--     </tr> -->
   </tbody>
 </table>
 
 <br/>
-
-<!-- <div align="center">
-        <img src="https://camo.githubusercontent.com/3997f3b27a68e19c31e2d1c378d77303735faa42e7d18a8018f7510d66aaa83e/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966" width="50%"/>
-
-</div> -->
 
 ## 📊 My Github Stats
 
