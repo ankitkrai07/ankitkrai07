@@ -146,14 +146,14 @@ Hello stranger! My name is Ankit Kumar and I am a Full Stack Web Developer, pass
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitkrai07" alt="Ankit Kumar" /></a> </p>
 <div align="center" style="display: flex; gap:50px">
 <!-- https://github-readme-stats.vercel.app/api?&hide=stars,issues&theme=radical&include_all_commits=true&cache_seconds=1800&custom_title=Your%20GitHub%20Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=ankitkrai07&theme=react&border_radius=4.6&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&show_icons=true" style="width: 40%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ankitkrai07&theme=react&border_radius=4.6&locale=en&layout=compact&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&show_icons=true" style="width: 40%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkrai07&theme=react&border_radius=4.6&locale=en&layout=compact&show_icons=true" style="width: 40%" />
 
 </div>
 <div align="center" style="display: flex; ">
  
-<img src="https://streak-stats.demolab.com?user=ankitkrai07&_border=true&theme=dark&hide_border=true&theme=react" style="width: 40%" />
+<img src="https://streak-stats.demolab.com?user=ankitkrai07&_border=true&theme=dark&hide_border=true&theme=react&locale=en&layout=compact" style="width: 40%" />
 
 </div>
 
